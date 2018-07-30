@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,stylelint_config-standard",
+    "logging_enabled": "false",
+    "name": "stylelint_config-standardSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "stylelint_config-standardSmokeTest.js"
+}
